@@ -1,3 +1,3 @@
-# Proyecto-Girasol-Mexicano
+# Plataformas virtuales para divulgación científica
 Módulo III. Repositorio para la difusión científica
-Plataformas virtuales para divulgación científica
+
